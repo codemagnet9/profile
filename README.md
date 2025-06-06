@@ -1,5 +1,13 @@
-# 👨‍💻 Full Stack Web Developer
-Full Stack Web Developer focused on React and Next.js, creating fast, user-friendly digital experiences. Skilled in everything from server-side architecture to UI design, aiming to deliver optimized and modern solutions.
+# 👨‍💻 Software Engineer
+
+Passionate about building high-performance, user-centric web applications using modern JavaScript technologies. I specialize in **React** and **Next.js**, bridging the gap between seamless user interfaces and robust backend systems.
+
+I focus on crafting scalable, maintainable, and efficient solutions—from UI design to API architecture.
+
+---
 
 ### 💼 Skills
-![My Skills](https://skillicons.dev/icons?i=typescript,react,next,tailwind,prisma,mongodb,express,nodejs,nest,graphql,postgres,docker,vercel,git)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,react,next,tailwind,prisma,mongodb,express,nodejs,nest,graphql,postgres,docker,vercel,git" alt="My Skills" />
+</p>
